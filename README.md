@@ -9,4 +9,7 @@ The variants ranging from B0 to B7 are based on the compound scaling method to s
 
 ![image](https://user-images.githubusercontent.com/50706192/159302886-40ae00f7-1840-48d4-9f34-9ec8734def29.png)
 
+
+#### References:
+
 https://pytorch.org/hub/nvidia_deeplearningexamples_efficientnet/
