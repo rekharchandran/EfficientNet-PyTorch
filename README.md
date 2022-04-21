@@ -1,5 +1,5 @@
 # EfficientNet-PyTorch
-
+EfficientNet PyTorch
 # What is EfficientNet?
 EfficientNet (or perhaps it's better to say EfficientNets) is a family of convolutional neural network-based image classification models. They perform extremely well on the state-of-the-art ImageNet dataset and other popular datasets such as CIFAR-100 and Flowers.
 
